@@ -1,6 +1,6 @@
 # messenger
 
-A new Flutter project.
+Mirorring messanger app from meta. App build from flutter SDK and firebase for database
 
 ## Getting Started
 
