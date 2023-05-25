@@ -1,0 +1,33 @@
+name: messenger
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.18.6 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.6.5
+  flutter_svg: ^2.0.4
+  flutter_feather_icons: 2.0.0+1
+  firebase_core: ^2.13.0
+  firebase_auth: ^4.3.0
+  cloud_firestore: ^4.4.5
+  uuid: 3.0.7
+  intl: ^0.18.1
+  # firebase_messaging: ^14.6.1
+  flutter: 
+    sdk: flutter
+  get_storage: ^2.1.1
+  # path_provider: ^2.0.15
+
+dev_dependencies: 
+  flutter_lints: ^2.0.0
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  assets: 
+    - assets/icons/
+  uses-material-design: true
+

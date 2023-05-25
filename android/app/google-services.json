@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "228003574199",
+    "project_id": "pr-messanger-3e286",
+    "storage_bucket": "pr-messanger-3e286.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228003574199:android:6aec1d2243d05d6d87b832",
+        "android_client_info": {
+          "package_name": "com.example.fb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228003574199-tl664bgjee46ml3l4shlp3uenlmmqlnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-_dQHQOevT6aoLY1PKmdyacM91N5eO-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228003574199-tl664bgjee46ml3l4shlp3uenlmmqlnr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "228003574199-5auli7cdpkmamb4mc38mlj2kd7s5s6re.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fb"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228003574199:android:2f5c7d943cece0c687b832",
+        "android_client_info": {
+          "package_name": "com.example.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228003574199-tl664bgjee46ml3l4shlp3uenlmmqlnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-_dQHQOevT6aoLY1PKmdyacM91N5eO-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228003574199-tl664bgjee46ml3l4shlp3uenlmmqlnr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "228003574199-5auli7cdpkmamb4mc38mlj2kd7s5s6re.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fb"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
